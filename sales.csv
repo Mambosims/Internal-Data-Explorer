@@ -1,0 +1,21 @@
+order_id,order_date,customer_id,customer_name,product,category,region,quantity,unit_price,discount,total_amount,payment_method,sales_rep
+1001,2024-01-05,C001,Alpha Stores,Laptop,Electronics,North,2,1200,0.05,2280,Credit Card,James
+1002,2024-01-06,C002,Beta Traders,Smartphone,Electronics,East,5,800,0.10,3600,Wire Transfer,Sarah
+1003,2024-01-07,C003,City Market,Office Chair,Furniture,West,10,150,0.00,1500,Cash,Michael
+1004,2024-01-08,C001,Alpha Stores,Monitor,Electronics,North,4,300,0.05,1140,Credit Card,James
+1005,2024-01-10,C004,Delta Supplies,Desk,Furniture,South,3,400,0.15,1020,Wire Transfer,Sarah
+1006,2024-01-12,C005,Epsilon Corp,Printer,Electronics,East,2,600,0.10,1080,Credit Card,Michael
+1007,2024-01-14,C006,Fusion Ltd,Keyboard,Accessories,North,20,40,0.00,800,Cash,James
+1008,2024-01-15,C003,City Market,Mouse,Accessories,West,25,25,0.05,593.75,Credit Card,Sarah
+1009,2024-01-18,C007,Gamma Retail,Laptop,Electronics,South,1,1200,0.00,1200,Wire Transfer,Michael
+1010,2024-01-20,C008,Horizon Group,Office Chair,Furniture,East,8,150,0.10,1080,Credit Card,James
+1011,2024-02-02,C002,Beta Traders,Monitor,Electronics,East,6,300,0.05,1710,Wire Transfer,Sarah
+1012,2024-02-05,C009,Innova Tech,Smartphone,Electronics,North,7,800,0.15,4760,Credit Card,James
+1013,2024-02-08,C010,Jet Solutions,Desk,Furniture,West,2,400,0.00,800,Cash,Michael
+1014,2024-02-10,C004,Delta Supplies,Printer,Electronics,South,3,600,0.10,1620,Wire Transfer,Sarah
+1015,2024-02-12,C006,Fusion Ltd,Mouse,Accessories,North,30,25,0.05,712.5,Credit Card,James
+1016,2024-02-15,C007,Gamma Retail,Keyboard,Accessories,South,15,40,0.00,600,Cash,Michael
+1017,2024-02-18,C008,Horizon Group,Laptop,Electronics,East,2,1200,0.10,2160,Credit Card,Sarah
+1018,2024-02-20,C009,Innova Tech,Monitor,Electronics,North,5,300,0.05,1425,Wire Transfer,James
+1019,2024-02-22,C010,Jet Solutions,Office Chair,Furniture,West,6,150,0.00,900,Credit Card,Michael
+1020,2024-02-25,C001,Alpha Stores,Smartphone,Electronics,North,4,800,0.10,2880,Wire Transfer,James

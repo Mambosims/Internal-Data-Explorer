@@ -1,0 +1,27 @@
+import React, { useState } from "react";
+import FileUploader from "./FileUploader.jsx";
+import DataTable from "./DataTable.jsx";
+
+export default function App() {
+  // State to hold parsed CSV data
+  const [tableData, setTableData] = useState([]);
+
+  return (
+    <div className="min-h-screen bg-gray-100 p-8">
+      {/* Title */}
+      <h1 className="text-2xl font-bold mb-6 text-center text-blue-600">
+        🚀 CSV Data Explorer
+      </h1>
+
+      {/* File uploader */}
+      <FileUploader onDataParsed={setTableData} />
+
+      {/* Render data table only if CSV has been uploaded */}
+      {tableData.length > 0 && (
+        <div className="mt-6">
+          <DataTable data={tableData} />
+        </div>
+      )}
+    </div>
+  );
+}

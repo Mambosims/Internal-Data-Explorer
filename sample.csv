@@ -1,0 +1,32 @@
+employee_id,name,department,role,salary,years_experience,location,performance_score
+E001,Alice Johnson,Engineering,Frontend Developer,72000,3,Cape Town,4.2
+E002,Brian Smith,Engineering,Backend Developer,85000,5,Johannesburg,4.6
+E003,Carol White,Data,Data Analyst,68000,2,Pretoria,4.0
+E004,David Brown,Data,Data Scientist,95000,6,Cape Town,4.8
+E005,Emma Wilson,HR,HR Manager,78000,7,Durban,4.4
+E006,Frank Taylor,Finance,Accountant,65000,4,Johannesburg,3.9
+E007,Grace Lee,Engineering,DevOps Engineer,90000,6,Cape Town,4.7
+E008,Henry Adams,Sales,Sales Executive,62000,3,Pretoria,3.8
+E009,Ivy Martin,Marketing,Marketing Analyst,60000,2,Durban,4.1
+E010,Jack Turner,Engineering,Full Stack Developer,88000,5,Johannesburg,4.5
+E011,Karen Scott,Data,Data Engineer,92000,6,Cape Town,4.6
+E012,Liam Harris,Finance,Financial Analyst,70000,3,Pretoria,4.0
+E013,Mia Clark,Sales,Sales Manager,82000,7,Durban,4.3
+E014,Nathan Lewis,Engineering,Frontend Developer,71000,3,Cape Town,4.1
+E015,Olivia Young,Engineering,Backend Developer,86000,5,Johannesburg,4.4
+E016,Paul Walker,HR,Recruiter,58000,2,Pretoria,3.7
+E017,Quincy Hall,Finance,Auditor,75000,4,Cape Town,4.2
+E018,Rachel King,Marketing,SEO Specialist,63000,3,Durban,4.0
+E019,Sam Wright,Engineering,Mobile Developer,83000,4,Johannesburg,4.3
+E020,Tina Lopez,Data,BI Analyst,72000,4,Cape Town,4.2
+E021,Umar Patel,Engineering,Backend Developer,89000,6,Pretoria,4.6
+E022,Vanessa Moore,Sales,Account Manager,69000,4,Durban,4.1
+E023,Will Evans,Finance,Budget Analyst,74000,5,Johannesburg,4.2
+E024,Xander Brooks,Engineering,QA Engineer,68000,3,Cape Town,3.9
+E025,Yara Ahmed,Data,Machine Learning Engineer,98000,7,Johannesburg,4.9
+E026,Zane Cooper,Marketing,Content Strategist,61000,2,Pretoria,3.8
+E027,Amy Peterson,HR,HR Coordinator,56000,1,Durban,3.6
+E028,Ben Foster,Engineering,Frontend Developer,73000,3,Cape Town,4.2
+E029,Chloe Ramirez,Sales,Sales Executive,64000,3,Johannesburg,4.0
+E030,Daniel Kim,Data,Data Scientist,94000,6,Pretoria,4.7
+
